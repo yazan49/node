@@ -1,4 +1,3 @@
-// models/Location.js
 const mongoose = require("mongoose");
 
 const LocationSchema = new mongoose.Schema(
